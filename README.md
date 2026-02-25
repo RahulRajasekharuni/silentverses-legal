@@ -1,1 +1,38 @@
 # silentverses-legal
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Privacy Policy</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>Last updated: February 2026</p>
+
+    <h2>1. Overview</h2>
+    <p>This application is used to publish video content to a Facebook Page.</p>
+    <p>The application does not collect, store, or process personal user data.</p>
+    <p>This policy applies to our Facebook app used to publish content to our Page.</p>
+
+    <h2>2. Information We Collect</h2>
+    <p>This application does not collect personal information from users.</p>
+    <p>It uses Facebook's API solely to publish content to an authorized Page.</p>
+
+    <h2>3. How We Use Data</h2>
+    <p>The app uses Facebook access tokens to publish video content to a Page.</p>
+    <p>No personal user data is stored on external servers.</p>
+
+    <h2>4. Data Sharing</h2>
+    <p>No personal information is shared, sold, rented, or transferred to third parties.</p>
+
+    <h2>5. Data Deletion</h2>
+    <p>If you would like your data deleted, please email:</p>
+    <p><strong>rayraja2005@hotmail.com</strong></p>
+    <p>Requests will be processed within 7 business days.</p>
+
+    <h2>6. Contact</h2>
+    <p>For any questions regarding this policy, contact:</p>
+    <p><strong>rayraja2005@hotmail.com</strong></p>
+
+</body>
+</html>
